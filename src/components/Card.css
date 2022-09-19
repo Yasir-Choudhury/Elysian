@@ -1,0 +1,18 @@
+.card {
+    margin:10px;
+    width: 150px;
+    height: 200px;
+    padding:15px;
+    border: 2px solid black;
+    box-shadow: 3px;
+}
+
+.img {
+    width: 150px;
+    height: 100px;
+    
+}
+
+.submission:hover {
+  background: blue;
+}
